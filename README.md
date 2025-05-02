@@ -1,4 +1,4 @@
-# 👋 Hola, soy Javi
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chillax&pause=1000&center=true&repeat=false&width=435&lines=%F0%9F%91%8B+Hola%2C+soy+Javi)](https://git.io/typing-svg)
 
 Frontend Developer con 3 años de experiencia y dando mis primeros pasos como Arquitecto de Software. Me apasiona crear interfaces limpias, funcionales y sostenibles. Actualmente soy Release Coordinator, registrando y gestionando cambios en servicios digitales críticos.
 
