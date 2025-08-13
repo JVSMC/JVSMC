@@ -1,4 +1,5 @@
-<h4 align="left">⚠️ Note: My contribution activity may appear incomplete due to a recent email change.</h4>
+> [!WARNING]
+> My contribution activity may appear incomplete due to a recent account updates.
 
 ###
 
